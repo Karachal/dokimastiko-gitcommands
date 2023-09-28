@@ -1,2 +1,2 @@
 Putting content inside file 3. 
-Adding an extra line.
+deleting the extra line.
