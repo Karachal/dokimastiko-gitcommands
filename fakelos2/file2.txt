@@ -1,3 +1,4 @@
 Writting something in file2.
-This is some new extra line in the master branch.
-// EXTRA LINES TO TEST
+adding an extra line with some changes.
+//THIS IS A TESTING FILE
+Dokimazontas to merge.
