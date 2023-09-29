@@ -7,4 +7,6 @@
 	{
 		$this->job = new Job($position);
 	}	
+	
+	echo "Hello people";
 }
