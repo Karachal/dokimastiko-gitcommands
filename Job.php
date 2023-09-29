@@ -11,5 +11,5 @@
 	{
 		return $this->title;
 	}
-
+  echo "Hello World";
 }
